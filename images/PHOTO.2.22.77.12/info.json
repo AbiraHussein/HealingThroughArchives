@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 33
+  }, {
+    "width" : 64,
+    "height" : 65
+  }, {
+    "width" : 128,
+    "height" : 130
+  }, {
+    "width" : 256,
+    "height" : 260
+  }, {
+    "width" : 512,
+    "height" : 519
+  }, {
+    "width" : 1023,
+    "height" : 1037
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1023,
+  "@id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.77.12",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1037
+}
