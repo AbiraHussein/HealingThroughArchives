@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 980,
+    "id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.11/canvas/",
+    "label" : {
+      "none" : [ "PHOTO.2.22.75.11" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.11/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.11/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 31,
+              "height" : 30
+            }, {
+              "width" : 62,
+              "height" : 60
+            }, {
+              "width" : 123,
+              "height" : 119
+            }, {
+              "width" : 245,
+              "height" : 238
+            }, {
+              "width" : 490,
+              "height" : 476
+            }, {
+              "width" : 980,
+              "height" : 951
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 980,
+            "@id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.11",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 951
+          } ],
+          "format" : "image/jpeg",
+          "width" : 980,
+          "id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.11/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 951
+        },
+        "target" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.11/canvas/"
+      } ]
+    } ],
+    "height" : 951
+  }, {
     "width" : 1007,
     "id" : "https://AbiraHussein.github.io/HealingThroughArchives/images/PHOTO.2.22.75.10/canvas/",
     "label" : {
