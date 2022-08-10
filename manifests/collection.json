@@ -1,0 +1,13 @@
+{
+  "id" : "https://AbiraHussein.github.io/HealingThroughArchives/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in AbiraHussein/HealingThroughArchives project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://AbiraHussein.github.io/HealingThroughArchives/manifests/ChulaIslandmanifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
