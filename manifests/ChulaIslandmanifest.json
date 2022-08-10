@@ -1,0 +1,57 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AbiraHussein.github.io/HealingThroughArchives/manifests/ChulaIslandmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://f2651372-bee6-47c7-9e28-78f75e73c4e2",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://244bb263-506a-4d79-b66e-9cad5dd5270c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 0,
+      "width" : 0,
+      "images" : [ ],
+      "related" : ""
+    }, {
+      "@id" : "http://4217061d-224e-417b-b8b0-d951c5db137a",
+      "@type" : "sc:Canvas",
+      "label" : "Chula Island",
+      "height" : 1037,
+      "width" : 1023,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3cddb8dd-b351-4cae-8d80-6984cf67d658",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://abirahussein.github.io/HealingThroughArchives/images/PHOTO.2.22.77.12/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://abirahussein.github.io/HealingThroughArchives/images/PHOTO.2.22.77.12",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1037,
+          "width" : 1023
+        },
+        "on" : "http://4217061d-224e-417b-b8b0-d951c5db137a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
